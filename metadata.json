@@ -1,0 +1,6 @@
+{
+  "name": "AI Blog Generator",
+  "description": "Generate high-quality, engaging blog posts in seconds. Customize tone, length, keywords, and review proposed outlines before final content generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
